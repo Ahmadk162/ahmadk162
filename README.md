@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahamad Kansoun</h1>
 <h3 align="center">
-Control & Energy Systems Engineer · Embedded & Real-Time Systems · Experimental Platforms
+Electronic Engineer . Embedded & Real-Time Systems . Control & Energy Systems Engineer · Experimental Platforms
 </h3>
 
 <p align="center">
