@@ -6,7 +6,7 @@ Control & Energy Systems Engineer · Embedded & Real-Time Systems · Experimenta
 
 <p align="center">
   <a href="https://ahmadk162.github.io">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ahmad-kansoun/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ahamad-kansoun/">LinkedIn</a> •
   <a href="mailto:ahmadk162@gmail.com">Email</a> 
 </p>
 
